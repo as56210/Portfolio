@@ -10,7 +10,7 @@
 - SSH Man-in-the-Middle -> 
 
 ### Python
-- NBA Game Winner Predictor (Machine Learning) -> 
+- NBA Game Winner Predictor (Machine Learning) -> https://github.com/as56210/NBA-Game-Winner-Predictor
 - Car Accident Analysis (Machine Learning) - > https://github.com/as56210/Car-Accident-Analysis
 
 ### Java
